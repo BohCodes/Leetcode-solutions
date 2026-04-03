@@ -1,12 +1,12 @@
 # LeetCode / NeetCode Solutions
 
-This repository contains my solutions while following the **NeetCode 150 roadmap**.
+This repository contains my solutions to data structures and algorithms problems while following the **NeetCode 150 roadmap**.
 
 ## Goal
 - Build strong problem-solving skills
-- Learn DSA patterns step by step
+- Learn and recognize common DSA patterns
 - Prepare for technical interviews
-- Track my coding progress consistently
+- Track my progress consistently
 
 ## Roadmap Topics
 Topics I am covering throughout this journey:
@@ -25,6 +25,15 @@ Topics I am covering throughout this journey:
 - Greedy
 - Intervals
 - Bit Manipulation
+
+## Repository Structure
+Solutions are organized by topic and problem to make navigation and revision easier.
+
+Example:
+```text
+Arrays & Hashing/
+  two-sum/
+    submission-0.py
 
 ## Notes
 - Solutions are synced automatically from NeetCode
